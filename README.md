@@ -20,8 +20,7 @@ CPU     | I5-4200U
 2. [TU131-2音频AppleHDA解决方法（需要dsdt修改）](http://bbs.pcbeta.com/viewthread-1542989-1-1.html)
 3. [解决睡眠无声的EAPD-Codec-Commander最新版2.2.1](http://bbs.pcbeta.com/viewthread-1546461-1-1.html)
 4. [山寨本TU131-2安装beta4懒人版并升级beta5成功！](http://bbs.pcbeta.com/viewthread-1548655-1-1.html)
-5. [PCI设备配置工具](http://sourceforge.net/projects/dpcimanager/)
-6. [苹果设备配置注册信息观察工具](http://sourceforge.net/projects/iojones)
+
 
 ## 使用的工具
 
@@ -31,6 +30,8 @@ CPU     | I5-4200U
 4. [Clover配置修改工具](http://mackie100.webwacemaster.altervista.org/)
 5. [SSDT变频文件生成工具](https://github.com/Piker-Alpha/ssdtPRGen.sh)
 6. [HDMI音频输出修改工具](https://github.com/Piker-Alpha/AppleIntelFramebufferAzul.sh)
+7. [PCI设备配置工具](http://sourceforge.net/projects/dpcimanager/)
+8. [苹果设备配置注册信息观察工具](http://sourceforge.net/projects/iojones)
 
 ## 使用的驱动
 
