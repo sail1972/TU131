@@ -33,7 +33,7 @@ CPU     | I5-4200U
 7. [PCI设备配置工具](http://sourceforge.net/projects/dpcimanager/)
 8. [苹果设备配置注册信息观察工具](http://sourceforge.net/projects/iojones)
 
-## 使用的驱动
+## 使用的驱动(几乎全是[Rehabman](https://github.com/RehabMan)大神的贡献）
 
 1. [有线网卡驱动](https://bitbucket.org/RehabMan/os-x-realtek-network)
 2. [USB3驱动](https://bitbucket.org/RehabMan/os-x-generic-usb3)
@@ -43,7 +43,9 @@ CPU     | I5-4200U
 6. [声卡驱动](http://sourceforge.net/projects/voodoohda)
 7. [声卡睡眠后重新激活驱动](https://bitbucket.org/RehabMan/os-x-eapd-codec-commander)
 8. [蓝牙韧体装载驱动](https://code.google.com/p/os-x-atheros-3k-firmware/)
-9. [FakeSMC驱动及HWSensors](http://hwsensors.com/releases) 
+9. [FakeSMC驱动及HWSensors](http://hwsensors.com/releases)
+10. 仿冒声卡AppleHDA驱动见我在远景论坛上的[分享](http://bbs.pcbeta.com/viewthread-1542989-1-1.html) 
 
-
+## 使用的补丁（还是[Rehabman](https://github.com/RehabMan)大神贡献的）
+1. 请在MaciASL中加入补丁资源：[http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master](http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master)
 
